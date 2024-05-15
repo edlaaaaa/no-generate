@@ -1,0 +1,27 @@
+.whole-app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.number-container {
+  background-color: #ffffff;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #0b69ff;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.detail {
+  color: #333333;
+  font-family: 'Roboto';
+}
+.gen-button {
+  background-color: #0b69ff;
+  border-radius: 4px;
+  color: #ffffff;
+}
